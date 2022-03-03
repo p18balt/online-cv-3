@@ -13,8 +13,6 @@ sidebar:
 
     # Sidebar links
     email: p18balt@ionio.gr
-    citizenship:
-    website: https://github.com/p18balt #do not add http://
     github: p18balt
 
     languages:
@@ -24,14 +22,8 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Italian
-        level: Intermediate
-
     interests:
-      - item: Rowing
-        link:
-
-      - item: Basketball
+      - item: Data Mining
         link:
 
       - item: Cooking
