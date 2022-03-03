@@ -53,15 +53,15 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Fresh-shop
-        link: #https://fresh-shop-karditsa.lovestoblog.com
+        link: fresh-shop-karditsa.lovestoblog.com
         tagline: "Online snacks store"
 
       - title: Space game
-        link: #https://youtu.be/bVnPYdtEyqM
+        link: youtu.be/bVnPYdtEyqM
         tagline: "Its a 2D arcade game made with HTML5,JAVASCRIPT,CSS."
 
       - title: Musicforkids
-        link: #https://youtu.be/Uf3GYYz6ZK
+        link: youtu.be/Uf3GYYz6ZK
         tagline: "An interactive music quiz for kids"
 
 
