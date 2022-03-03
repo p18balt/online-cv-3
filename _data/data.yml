@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: p18balt@ionio.gr
-    phone: 012 345 6789
     citizenship:
     website: https://github.com/p18balt #do not add http://
     github: p18balt
@@ -45,7 +44,7 @@ career-profile:
 education:
     - degree: BSc in Computer Science
       university: Ionian University
-      time: 2018 - 2022
+      time: 2018 - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -54,14 +53,6 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
-    - role: Web Developer
-      time: 2018 - Present
-      company: oxefteris.gr , Aigaleo Greece
-      details: |
-        This work helped me learn more about :
-          - Web Development
-          - Team Work
 projects:
     title: Projects
     intro: >
@@ -96,23 +87,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 70%
 
       - name: Javascript & jQuery
-        level: 60%
+        level: 40%
 
-      - name: Angular
-        level: 50%
+      - name: C C++
+        level: 100%
 
       - name: HTML5 & CSS
         level: 99%
 
-      - name: Ruby on Rails
-        level: 85%
-
       - name: Sketch & Photoshop
-        level: 98%
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
