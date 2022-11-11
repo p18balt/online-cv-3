@@ -21,7 +21,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Data Mining
+      - item: Cooking
         link:
 
       - item: Rowing
@@ -40,17 +40,24 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Fresh-shop
+      - title: Fresh-shop (HTML5, CSS, JAVASCRIPT)
         link: fresh-shop-karditsa.lovestoblog.com
         tagline: "Online snacks store"
 
-      - title: Space game
+      - title: Space game (HTML5, CSS, JAVASCRIPT)
         link: youtu.be/bVnPYdtEyqM
         tagline: "Its a 2D arcade game made with HTML5,JAVASCRIPT,CSS."
 
-      - title: Musicforkids
+      - title: Musicforkids (HTML5, CSS, JAVASCRIPT)
         link: youtu.be/Uf3GYYz6ZK
         tagline: "An interactive music quiz for kids"
+      
+      - title: AI prediction model of League of Legends game outcome (AI,ML)
+        tagline: "AI clasification model for League Of Legends MOBA game"
+      
+      - title: Smart Alarm (MATLAB)
+        tagline: "Voice recongition alarm that uses voices commands to confirm the user is awake"
+      
 
 
 
