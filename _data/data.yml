@@ -30,34 +30,33 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Undergraduate IT student at Ionian University.
+      I am an undergraduate student at Ionian University studying Computer Science. I am highly interested in Artificial Intelligence, Machine Learning, ethical hacking and programming. I like working and improving myself daily and thats the reason why I can cooperate/communicate with everyone. I am currently working on a Text Simplification AI project, an ecommerce website creation and a python projects that automates web browsing. 
 education:
     - degree: BSc in Computer Science
       university: Ionian University
       time: 2018 - Present
       details: |
 projects:
-    title: Projects
+    title: Completed University Assignments
     intro: >
     assignments:
       - title: Fresh-shop (HTML5, CSS, JAVASCRIPT)
-        link: fresh-shop-karditsa.lovestoblog.com
-        tagline: "Online snacks store"
+        link: https://fresh-shop-karditsa.lovestoblog.com
+        tagline: "Online ecommerce webpage"
 
       - title: Space game (HTML5, CSS, JAVASCRIPT)
-        link: youtu.be/bVnPYdtEyqM
+        link: https://youtu.be/bVnPYdtEyqM
         tagline: "Its a 2D arcade game made with HTML5,JAVASCRIPT,CSS."
 
-      - title: Musicforkids (HTML5, CSS, JAVASCRIPT)
+      - title: Musicforkids (HTML5, CSS, JAVASCRIPT) An interactive webpage for kids that helps them learn about music.
         link: youtu.be/Uf3GYYz6ZK
         tagline: "An interactive music quiz for kids"
       
-      - title: AI prediction model of League of Legends game outcome (AI,ML)
-        tagline: "AI clasification model for League Of Legends MOBA game"
-      
-      - title: Smart Alarm (MATLAB)
-        tagline: "Voice recongition alarm that uses voices commands to confirm the user is awake"
-      
+      - title: AI clasification model for League Of Legends MOBA game
+        tagline: "Artificial Inteligence clasification model for League of Legends Game that predicts the winning team.(AI,ML)"
+     
+     - title: Smart Alarm (MATLAB)
+       tagline: "Voice recongition alarm that uses voices commands to confirm the user is awake"
 
 
 
@@ -66,19 +65,16 @@ skills:
 
     toolset:
       - name: Python 
-        level: 70%
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 92%
+      - name: HTML5, CSS
+        level: 90%
 
-      - name: C C++
-        level: 100%
-
-      - name: HTML5 & CSS
-        level: 99%
-
-      - name: Sketch & Photoshop
+      - name: C C++ 
         level: 85%
+
+      - name: Javascript
+        level: 70%
 
 footer: >
   
